@@ -1,2 +1,3 @@
 # hello-world
 Aww look, it's Petunia's first GitHub repository...
+I'm in my jungle hut in Hawaii, listening to my son-in-law next door singing and playing guitar while the chickens cluck around and the cats clamor for my attention. I'm finally getting acquainted with GitHub. Lately I've been learning javaScript. My cousin - whom I haven't seen in 30 years - and her boyfriend just left after a two-day visit. In about a week and a half I'm flying to Portland to see my mom and my step-dad and my brother, sister-in-law and nephew who are visiting from frecking QATAR. It's July 2021. Life is good.
